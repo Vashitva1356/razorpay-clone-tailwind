@@ -15,5 +15,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/Vashitva1356/razorpay-clone-tailwind.git
 cd razorpay-clone-tailwind
 npm install
-
+images/image.png
 
